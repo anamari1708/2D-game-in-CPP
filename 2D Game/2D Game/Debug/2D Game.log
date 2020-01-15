@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  2D Game.cpp
+  Game.cpp
+d:\anamariafile\fax\7_semestar\grafika\sfml group\2d game\2d game\game.cpp(199): warning C4018: '<': signed/unsigned mismatch
+d:\anamariafile\fax\7_semestar\grafika\sfml group\2d game\2d game\game.cpp(213): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  2D Game.vcxproj -> D:\AnamariaFile\FAX\7_semestar\grafika\SFML Group\2D Game\Debug\2D Game.exe
